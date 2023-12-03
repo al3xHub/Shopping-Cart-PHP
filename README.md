@@ -1,0 +1,1 @@
+Simulating a Shop Website where you can add productos, check the total price and see all the purchases historial. I'm not using database in this program because it's only the introduction of programming in PHP. The code implemented it's made with html,css and PHP. Very basic but for the first time not to bad.
